@@ -11,7 +11,7 @@ the `index.ts` file.
 2) Clone this repo and run `npm install`
 3) Next run a `npm run build` to build a javascript file that will be used by Claude Desktop
 4) Our last step is to point Claude Desktop to our MCP server
-* Edit the Claude config file using a text editor i.e. `vi ~/Library/Application\ Support/Claude/claude_desktop_config.json`
+* Create/edit the Claude config file using a text editor i.e. `vi ~/Library/Application\ Support/Claude/claude_desktop_config.json`
 * In the `claude_desktop_config.json` file paste this configuration:
 ```
 {
