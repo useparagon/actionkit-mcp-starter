@@ -31,6 +31,8 @@ the `index.ts` file.
 }
 ```
 * Fill in your env variables with your Paragon credentials
+* For the `USER` env variable, this will correspond to the logged in user authenticated in the `Paragon Connect Portal`
+    * Use [demo.useparagon.com](https://demo.useparagon.com) to quickly login as your user and **authenticate to Slack** (This is a necessary for the Slack tools to be used on your behalf) 
 * Note: ABSOLUTE_PATH can be found by <CMD> clicking a file in your `Finder` on Mac
 5) Open Claude Desktop and there should be a `hammer icon` with the list of Slack tools
 * Additionally there should also be a `plug icon` where you can verify that your app is connected to our MCP
