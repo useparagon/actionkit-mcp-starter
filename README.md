@@ -44,7 +44,7 @@ the `index.ts` file.
 2) Clone this repo and run `npm install`
 3) Next run a `npm run build` to build a javascript file that will be used by Cursor
 4) Our last step is to point Cursor to our MCP server
-* Create/edit the Claude config file using a text editor i.e. `vi ~/.cursor/mcp.json`
+* Create/edit the Cursor config file using a text editor i.e. `vi ~/.cursor/mcp.json`
 * In the `mcp.json` file paste this configuration:
 ```
 {
