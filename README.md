@@ -1,12 +1,12 @@
 # ActionKit MCP Starter
 
 ## Background
-This repo is an MCP server demoing ActionKit. Connect this server to your **Claude Desktop** to get access to all of ActionKit's **Slack** actions.
+This repo is an MCP server demoing ActionKit. Connect this server to your **Claude Desktop** or **Cursor** to get access to all of ActionKit's **Slack** actions.
 In this example it is assumed that your user has authed via the Paragon Connect Portal.
 For the purposes of this demo we filtered actions to Slack actions, but this setting can be changed by removing the Slack filter in 
 the `index.ts` file.
 
-## Setting Up
+## Claude Desktop Setup
 1) First install `Claude Desktop`
 2) Clone this repo and run `npm install`
 3) Next run a `npm run build` to build a javascript file that will be used by Claude Desktop
