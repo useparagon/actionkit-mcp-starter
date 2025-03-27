@@ -36,7 +36,8 @@ the `index.ts` file.
 * Note: ABSOLUTE_PATH can be found by <CMD> clicking a file in your `Finder` on Mac
 5) Open Claude Desktop and there should be a `hammer icon` with the list of Slack tools
 * Additionally there should also be a `plug icon` where you can verify that your app is connected to our MCP
-<img width="788" alt="Screenshot 2025-03-25 at 1 59 55 PM" src="https://github.com/user-attachments/assets/a77d7728-ae43-4919-8569-a76f70049dc5" />
+![image](https://github.com/user-attachments/assets/ad738e67-150c-4744-a33b-7c68f334ca19)
+
 
 ## Cursor Setup
 1) Install `Cursor` if not installed already
